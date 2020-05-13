@@ -1,0 +1,3 @@
+13 05 2020 09:18:23-->::1-->INSERT INTO user (firstname,lastname,email) VALUES ('juan','castillo','juan@gmail.com');  
+13 05 2020 09:18:50-->::1-->UPDATE user SET id = '1',firstname = 'deos',lastname = 'garcia',email = 'xcvbnm@gmail.com'  WHERE id in ('1')  
+13 05 2020 09:19:04-->::1-->UPDATE user SET id = '1',firstname = 'deos',lastname = 'garcia',email = 'xcvbnm@gmail.com'  WHERE id in ('1')  
