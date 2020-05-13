@@ -1,0 +1,13 @@
+{
+    "name": "kometsales/api",
+    "description": "back",
+    "require": {
+        "sendgrid/smtpapi": "^0.6.5"
+    },
+    "authors": [
+        {
+            "name": "projas",
+            "email": "projas@kometsales.com"
+        }
+    ]
+}
