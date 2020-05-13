@@ -4,10 +4,10 @@ include_once('userModel.php');
 
 $user = new userModel();
 
-$user->firstname = 'deos';
-$user->lastname = 'garcia';
-$user->email = 'xcvbnm@gmail.com';
-$user->save(1);
+$user->firstname = 'Pedro';
+$user->lastname = 'Alejandro';
+$user->email = 'projas@gmail.com';
+$user->save();
 
 $res = $user->all();
 
