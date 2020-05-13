@@ -1,6 +1,5 @@
 <?php
     require_once 'Conexion.php';
-
 class formModel extends Conexion{
 
 public $table         = "form001"; 

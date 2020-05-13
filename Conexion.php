@@ -43,9 +43,6 @@ class Conexion {
 
     public function open(){
         $this->con = new mysqli("us-cdbr-east-06.cleardb.net", "b77167052670e3", "bce3dba6", "heroku_59520dcef0b43d9");
-
-      
-
     }
 
 

@@ -2,6 +2,8 @@
 
 require_once 'Conexion.php';
 
+
+
 class padreModelo extends conexion
 {
     
